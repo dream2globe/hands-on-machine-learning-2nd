@@ -1,0 +1,3 @@
+[submodule "book-samples"]
+	path = book-samples
+	url = https://github.com/rickiepark/handson-ml2

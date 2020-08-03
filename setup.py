@@ -7,15 +7,14 @@ def long_description():
         readme = f.read()
     return readme
 
-
 setup(
-    name="RealFaultPredictor",
-    version="1.1.0",
-    description="AI service for false alram detection of mobile RF test process",
+    name="Hands-on Machine Learning 2nd",
+    version="1.0.0",
+    description="sample sources of Hands-on Machine Learning 2nd",
     long_description=long_description(),
     url="",
     author="Seonghyeon Kang",
-    author_email="shyeon.kang@samsung.com",
+    author_email="shyeon.kang@gmail.com",
     license="MIT",
     packages=find_packages(),
     classifiers=["Programming Language :: Python :: 3", "Programming Language :: Python :: 3.8",],
